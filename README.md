@@ -7,6 +7,6 @@ This is the code for the Website where we have hosted the Comics we made for PoI
 
 Team:<br>
 <a href="https://github.com/AnuragSahu">Anurag Sahu</a><br>
-<a href="https://github.com/ishitavohra3110">Ishita Vohara</a><br>
-<a href="https://github.com/KSVSC">Samhita K</a><br>
+<a href="https://github.com/ishitavohra3110">Ishita Vohra</a><br>
+<a href="https://github.com/KSVSC">Samhita Kanaparthy</a><br>
 <a href="https://github.com/vanisancheti">Vani Sancheti</a><br>
