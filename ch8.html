@@ -113,7 +113,7 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top shadow-sm">
     <a class="navbar-brand" href="index.html">
-      <img src="images/logo.png" alt="KPK LOGO" width="150">
+      <img src="images/logo.png" alt="Comicurity LOGO" width="350">
     </a>
   </nav>
   <!-- End Of Navbar -->
@@ -140,7 +140,19 @@
               <a href="pdf/8.pdf" class="btn btn-primary mt-2 text-white" download>Download PDF <i class="fas fa-download fa-lg"></i></a>
             </div>
             <!-- Description -->
-            <p id="description">Description about the PDF.</p>
+            <p id="description">Shannon’s perfect secrecy, we would first talk about what perfect secrecy is.
+
+              It starts with a game consisting of two players A and B. A is sent to a room where there is a box, few locks and their keys and a deck of cards. The task for A is to pick a card from the deck and hide it in the best possible manner he can on the condition that he can’t leave the room and that he can put maximum 1 card in the box. The task for B is to find that card. 
+              
+              Initially, A picks a card and tries to put it in the box and lock it using the provided locks, but then he realizes that by looking at the remaining deck of cards anyone can figure out the selected card because that would be the only card that would be missing from the deck. 
+              
+              He thought a lot and then finally mixed the selected card with the deck and shuffled it. And left the room. By doing so the only option left for player B is to guess which card was selected by A because there is no other information left in the room for figuring out the selected card. This is what perfect secrecy is. 
+              
+              Formally it meant that, given a ciphertext, every message in the message space is exactly as likely to be the underlying plaintext.
+              
+              After introducing this we would talk about one-time-pad and its applications. And in the end, we would explain Shannon’s theorem which says that a scheme is perfectly secret if and only if every key is chosen with equal probability and for every message and ciphertext there exists a single key such that encryption of the message outputs the ciphertext.
+              
+            </p>
           </div>
         </div>
       </div>
