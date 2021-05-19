@@ -1,8 +1,8 @@
 # Pdf_flipbook.demo.github.io
-You Can view the website <a href="https://anuragsahu.github.io/Pdf_flipbook.demo.github.io/index.html"> Here </a>.
+View the site <a href="https://anuragsahu.github.io/Pdf_flipbook.demo.github.io/index.html"> Here! </a>.
 
 <br>
-This is the code for the Website where we have hosted the Comics we made for PoIS Project.
+This repo hosts the comics, made for Principles of Information Security course project.
 <br>
 
 Team:<br>
